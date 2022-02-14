@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: The instructor sits in front of the bookshelves.
+learning_resource_types: []
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: video screen shot
+type: OCWImage
 uid: 37d2265d-14e9-f9c6-4edd-f9c6a11b0fa0
 ---
