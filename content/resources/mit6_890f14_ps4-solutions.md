@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Class on Algorithmic Lower Bounds and Hardness Proofs, Problem Set 4 Solutions
-type: OCWFile
 uid: e41986f9-b5f6-757e-ea47-008570480e09
 ---
