@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: The instructor sits in front of the bookshelves.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 resourcetype: Image
