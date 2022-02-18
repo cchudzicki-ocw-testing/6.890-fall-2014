@@ -54,7 +54,7 @@ None
 Instructor Insights
 -------------------
 
-[![Professor Eric Demaine sits in front of the bookshelves.]({{< resource_file 37d2265d-14e9-f9c6-4edd-f9c6a11b0fa0 >}})]({{< baseurl >}}/resources/inspiration-for-developing-the-course)
+[{{< resource 37d2265d-14e9-f9c6-4edd-f9c6a11b0fa0 >}}]({{< baseurl >}}/resources/inspiration-for-developing-the-course)
 
 In the following videos, Professor Erik Demaine describes various aspects of how he taught _6.890 Algorithmic Lower Bounds: Fun with Hardness Proofs._
 
@@ -84,7 +84,7 @@ The students' grades were based on the following activities:
 Student Information
 -------------------
 
-![37 students took this course when it was taught in Fall 2014.]({{< resource_file 11d49faa-9551-e409-ba29-a5dae5ece9dd >}})
+{{< resource 11d49faa-9551-e409-ba29-a5dae5ece9dd >}}
 
 ### Breakdown by Year
 
