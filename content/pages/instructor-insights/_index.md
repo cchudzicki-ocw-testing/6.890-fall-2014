@@ -1,14 +1,13 @@
 ---
 content_type: page
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 71669fcb-a026-0ef2-3695-59a40f4c0bb8
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _6.890 Algorithmic Lower Bounds: Fun with Hardness Proofs_ as it was taught by Professor Erik Demaine in Fall 2014.
 
@@ -16,30 +15,28 @@ This course addressed algorithmic reductions and techniques for proving problems
 
 Students met twice a week for lectures and had the opportunity to meet once a week for optional problem-solving sessions focused on jointly solving open problems.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Learn when to give up the search for efficient algorithms
-*   See connections between computational problems
-*   Solve puzzles to prove theorems
-*   Solve open problems
+- Learn when to give up the search for efficient algorithms
+- See connections between computational problems
+- Solve puzzles to prove theorems
+- Solve open problems
 
 ### Possibilities for Further Study/Careers
 
-Many students who took this course in Fall 2014 met after the course was over to continue their work on [open problems]({{< baseurl >}}/resources/inviting-students-to-solve-open-problems).
+Many students who took this course in Fall 2014 met after the course was over to continue their work on open problems.
 
 Other possibilities for further study included courses in complexity theory or advanced algorithms.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-*   _[6.046 Design and Analysis of Algorithms](/courses/6-046j-design-and-analysis-of-algorithms-spring-2015)_ or equivalent background in discrete mathematics and algorithms
-*   Alternatively, permission from the instructor
-*   No background in computational complexity required; all needed notations defined in class
+- [_6.046 Design and Analysis of Algorithms_](/courses/6-046j-design-and-analysis-of-algorithms-spring-2015) or equivalent background in discrete mathematics and algorithms
+- Alternatively, permission from the instructor
+- No background in computational complexity required; all needed notations defined in class
 
 ### Requirements Satisfied
 
@@ -51,28 +48,32 @@ None
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
-[{{< resource 37d2265d-14e9-f9c6-4edd-f9c6a11b0fa0 >}}]({{< baseurl >}}/resources/inspiration-for-developing-the-course)
+\[
+
+{{< resource 37d2265d-14e9-f9c6-4edd-f9c6a11b0fa0 >}}
+
+\]({{< baseurl >}}/resources/inspiration-for-developing-the-course)
+
+ 
 
 In the following videos, Professor Erik Demaine describes various aspects of how he taught _6.890 Algorithmic Lower Bounds: Fun with Hardness Proofs._
 
-*   [Inspiration for Developing the Course]({{< baseurl >}}/resources/inspiration-for-developing-the-course)
-*   [The Role of Fun in Research, Teaching, and Learning]({{< baseurl >}}/resources/the-role-of-fun-in-research-teaching-and-learning)
-*   [Inviting Students to Solve Open Problems]({{< baseurl >}}/resources/inviting-students-to-solve-open-problems)
-*   [Collaboration as a Problem-Solving Approach]({{< baseurl >}}/resources/collaboration-as-a-problem-solving-approach)
-*   [Students Scribing Lecture Notes]({{< baseurl >}}/resources/students-scribing-lecture-notes)
-*   [Final Projects]({{< baseurl >}}/resources/final-projects)
-*   [Using a Survey to Get to Know Students]({{< baseurl >}}/resources/using-a-survey-to-get-to-know-students)
-*   [Course Iteration]({{< baseurl >}}/resources/course-iteration)
+- \[Inspiration for Developing the Course\]({{< baseurl >}}/resources/inspiration-for-developing-the-course)
+- \[The Role of Fun in Research, Teaching, and Learning\]({{< baseurl >}}/resources/the-role-of-fun-in-research-teaching-and-learning)
+- \[Inviting Students to Solve Open Problems\]({{< baseurl >}}/resources/inviting-students-to-solve-open-problems)
+- \[Collaboration as a Problem-Solving Approach\]({{< baseurl >}}/resources/collaboration-as-a-problem-solving-approach)
+- \[Students Scribing Lecture Notes\]({{< baseurl >}}/resources/students-scribing-lecture-notes)
+- \[Final Projects\]({{< baseurl >}}/resources/final-projects)
+- \[Using a Survey to Get to Know Students\]({{< baseurl >}}/resources/using-a-survey-to-get-to-know-students)
+- \[Course Iteration\]({{< baseurl >}}/resources/course-iteration)
 
 {{< quote "Silence is the worst thing for solving problems." "— Erik Demaine" >}}
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -81,10 +82,11 @@ The students' grades were based on the following activities:
 - 50% Final project
 - 20% Final presentation
 
-Student Information
--------------------
+## Student Information
 
-{{< resource 11d49faa-9551-e409-ba29-a5dae5ece9dd >}}
+### Enrollment
+
+37 students
 
 ### Breakdown by Year
 
