@@ -48,7 +48,7 @@ None
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-## Instructor Insights
+## Instructor Interview
 
 \[
 
