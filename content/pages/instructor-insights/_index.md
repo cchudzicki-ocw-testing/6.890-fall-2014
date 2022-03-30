@@ -9,7 +9,7 @@ uid: 71669fcb-a026-0ef2-3695-59a40f4c0bb8
 ---
 ## Course Overview
 
-This page focuses on the course _6.890 Algorithmic Lower Bounds: Fun with Hardness Proofs_ as it was taught by Professor Erik Demaine in Fall 2014.
+This page focuses on the course *6.890 Algorithmic Lower Bounds: Fun with Hardness Proofs* as it was taught by Professor Erik Demaine in Fall 2014.
 
 This course addressed algorithmic reductions and techniques for proving problems are computationally hard for a variety of complexity classes. Students created interesting gadgets, learned many hardness proof styles, explored the connection between games and computation, surveyed several important problems and complexity classes, and crushed hopes and dreams (for fast optimal solutions).
 
@@ -34,7 +34,7 @@ Other possibilities for further study included courses in complexity theory or a
 
 ### Prerequisites
 
-- [_6.046 Design and Analysis of Algorithms_](/courses/6-046j-design-and-analysis-of-algorithms-spring-2015) or equivalent background in discrete mathematics and algorithms
+- [*6.046 Design and Analysis of Algorithms*](/courses/6-046j-design-and-analysis-of-algorithms-spring-2015) or equivalent background in discrete mathematics and algorithms
 - Alternatively, permission from the instructor
 - No background in computational complexity required; all needed notations defined in class
 
@@ -58,16 +58,16 @@ None
 
  
 
-In the following videos, Professor Erik Demaine describes various aspects of how he taught _6.890 Algorithmic Lower Bounds: Fun with Hardness Proofs._
+In the following videos, Professor Erik Demaine describes various aspects of how he taught *6.890 Algorithmic Lower Bounds: Fun with Hardness Proofs.*
 
-- \[Inspiration for Developing the Course\]({{< baseurl >}}/resources/inspiration-for-developing-the-course)
-- \[The Role of Fun in Research, Teaching, and Learning\]({{< baseurl >}}/resources/the-role-of-fun-in-research-teaching-and-learning)
-- \[Inviting Students to Solve Open Problems\]({{< baseurl >}}/resources/inviting-students-to-solve-open-problems)
-- \[Collaboration as a Problem-Solving Approach\]({{< baseurl >}}/resources/collaboration-as-a-problem-solving-approach)
-- \[Students Scribing Lecture Notes\]({{< baseurl >}}/resources/students-scribing-lecture-notes)
-- \[Final Projects\]({{< baseurl >}}/resources/final-projects)
-- \[Using a Survey to Get to Know Students\]({{< baseurl >}}/resources/using-a-survey-to-get-to-know-students)
-- \[Course Iteration\]({{< baseurl >}}/resources/course-iteration)
+- {{% resource_link 370b936b-b74b-2333-6dd8-dec57272ab69 "Inspiration for Developing the Course" %}}
+- {{% resource_link 427d22c7-baf4-92d8-f57c-f3279a8a1552 "The Role of Fun in Research, Teaching, and Learning" %}}
+- {{% resource_link deb4e34e-e638-760b-62ff-5f0c1f7c112c "Inviting Students to Solve Open Problems" %}}
+- {{% resource_link 4f1b9dc7-f8f0-23a7-fa00-63040f93cb3d "Collaboration as a Problem-Solving Approach" %}}
+- {{% resource_link 25d6e2fc-c4fc-0728-3989-746f125e13dd "Students Scribing Lecture Notes" %}}
+- {{% resource_link aabebfd6-775b-994f-9745-0373e558fe39 "Final Projects" %}}
+- {{% resource_link 5a92fc45-247c-5019-2327-2332a2cbcb88 "Using a Survey to Get to Know Students" %}}
+- {{% resource_link 5951a082-e43b-363e-93db-b4a24e3b6689 "Course Iteration" %}}
 
 {{< quote "Silence is the worst thing for solving problems." "— Erik Demaine" >}}
 
