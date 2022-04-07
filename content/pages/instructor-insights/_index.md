@@ -51,9 +51,7 @@ None
 ## Instructor Interview
 
 [
-
 {{< resource 37d2265d-14e9-f9c6-4edd-f9c6a11b0fa0 >}}
-
 ]({{< baseurl >}}/resources/inspiration-for-developing-the-course)
 
  
