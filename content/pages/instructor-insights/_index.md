@@ -50,9 +50,7 @@ None
 
 ## Instructor Interview
 
-[
-{{< resource 37d2265d-14e9-f9c6-4edd-f9c6a11b0fa0 >}}
-]({{< baseurl >}}/resources/inspiration-for-developing-the-course)
+{{< resource uuid="37d2265d-14e9-f9c6-4edd-f9c6a11b0fa0" href_uuid="370b936b-b74b-2333-6dd8-dec57272ab69" >}}
 
  
 
